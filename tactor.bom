@@ -1,0 +1,17 @@
+Partlist exported from /Users/jacobrosenthal/Documents/Boards/haptic-tactor/tactor.sch at 5/14/13 12:07 AM
+
+Qty Value                  Device                 Parts               P/N
+1                          DIODE-SOD123           D1                  BAT42W-FDICT-ND
+1                          LEDCHIP-LED0805        LED1                160-1179-1-ND
+1                          LEDCHIP-LED0805        LED2                160-1176-1-ND
+1                          LEDCHIP-LED0805        LED3                160-1413-1-ND
+1   0.1uF                  CAP0805                C1                  399-1170-1-ND
+1   Optional               CAP0805                C3                  Optional and matched to your circuit
+2   10k                    RESISTOR               R4, R5              P10KACT-ND
+3   470                    RESISTOR               R1, R2, R3          P470CCT-ND
+1   ATTINY48               ATTINY48               U$1                 ATTINY88-AURCT-ND
+1   MOSFET-NCHANNELSMD     MOSFET-NCHANNELSMD     Q1                  NUD3105LT1G
+1   MOTORSMALLVIA          MOTORSMALLVIA          U$6                 http://www.kysanelectronics.com/Products/Catsub.php?recordID=5
+1   POGOPROG-CONNWITH-VIAS POGOPROG-CONNWITH-VIAS WITHVIAS-SMV1       http://protofusion.org/wordpress/2013/05/open-hardware-pogo-pin-programmer/
+2   S4B-ZR-SM4A-TF         S4B-ZR-SM4A-TF         IN, OUT             455-1695-1-ND
+1   SOLDERJUMPER0603       SOLDERJUMPER0603       SJ1                 Test Point or current limiter, remember to cut trace
