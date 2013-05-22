@@ -1,0 +1,11 @@
+rev .02 (mini)
+all 0805 parts
+back to a square design, slightly larger
+move all components to top for manufacturability, makes design slightly larger
+pass through design to allow break away panelized versions
+cleaned up schematic symbols a ton
+removed over voltage protection diode
+swap programming connector to http://protofusion.org/wordpress/2013/05/open-hardware-pogo-pin-programmer/
+decent labeling in silk now
+add solder jump in 0805 layout to test or limit current through motor
+added base resistor on mosfet
